@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Widgets Reloaded Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-08 02:51-0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  <justin@justintadlock.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_x:1,2c;_n:1,2;_n\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/widget-archives.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"archives."
+msgstr ""
+
+#: inc/widget-archives.php:44 inc/widget-archives.php:142
+msgid "Archives"
+msgstr ""
+
+#: inc/widget-archives.php:79
+msgid "Select Year"
+msgstr ""
+
+#: inc/widget-archives.php:82
+msgid "Select Month"
+msgstr ""
+
+#: inc/widget-archives.php:85
+msgid "Select Week"
+msgstr ""
+
+#: inc/widget-archives.php:88
+msgid "Select Day"
+msgstr ""
+
+#: inc/widget-archives.php:91
+msgid "Select Post"
+msgstr ""
+
+#: inc/widget-archives.php:157
+msgid "Alphabetical"
+msgstr ""
+
+#: inc/widget-archives.php:158
+msgid "Daily"
+msgstr ""
+
+#: inc/widget-archives.php:159
+msgid "Monthly"
+msgstr ""
+
+#: inc/widget-archives.php:160
+msgid "Post By Post"
+msgstr ""
+
+#: inc/widget-archives.php:161
+msgid "Weekly"
+msgstr ""
+
+#: inc/widget-archives.php:162
+msgid "Yearly"
+msgstr ""
+
+#: inc/widget-archives.php:167 inc/widget-authors.php:141
+#: inc/widget-bookmarks.php:182 inc/widget-bookmarks.php:194
+#: inc/widget-categories.php:171 inc/widget-pages.php:152
+#: inc/widget-tags.php:186
+msgid "Ascending"
+msgstr ""
+
+#: inc/widget-archives.php:168 inc/widget-authors.php:142
+#: inc/widget-bookmarks.php:183 inc/widget-bookmarks.php:195
+#: inc/widget-categories.php:172 inc/widget-pages.php:153
+#: inc/widget-tags.php:187
+msgid "Descending"
+msgstr ""
+
+#: inc/widget-archives.php:173
+msgid "Custom"
+msgstr ""
+
+#: inc/widget-archives.php:174
+msgid "HTML"
+msgstr ""
+
+#: inc/widget-archives.php:175
+msgid "Option"
+msgstr ""
+
+#: inc/widget-archives.php:181 inc/widget-authors.php:160
+#: inc/widget-bookmarks.php:217 inc/widget-calendar.php:108
+#: inc/widget-categories.php:195 inc/widget-nav-menu.php:131
+#: inc/widget-pages.php:178 inc/widget-search.php:144 inc/widget-tags.php:207
+msgid "Title:"
+msgstr ""
+
+#: inc/widget-archives.php:225 inc/widget-authors.php:208
+msgid "Show post count?"
+msgstr ""
+
+#: inc/widget-authors.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"author lists."
+msgstr ""
+
+#: inc/widget-authors.php:44 inc/widget-authors.php:123
+msgid "Authors"
+msgstr ""
+
+#: inc/widget-authors.php:146
+msgid "Display Name"
+msgstr ""
+
+#: inc/widget-authors.php:147
+msgid "Email"
+msgstr ""
+
+#: inc/widget-authors.php:148 inc/widget-bookmarks.php:188
+#: inc/widget-bookmarks.php:199 inc/widget-categories.php:177
+#: inc/widget-pages.php:159
+msgid "ID"
+msgstr ""
+
+#: inc/widget-authors.php:149
+msgid "Nice Name"
+msgstr ""
+
+#: inc/widget-authors.php:150
+msgid "Post Count"
+msgstr ""
+
+#: inc/widget-authors.php:151
+msgid "Registered"
+msgstr ""
+
+#: inc/widget-authors.php:152 inc/widget-bookmarks.php:211
+msgid "URL"
+msgstr ""
+
+#: inc/widget-authors.php:153
+msgid "Login"
+msgstr ""
+
+#: inc/widget-authors.php:186 inc/widget-categories.php:166
+#: inc/widget-tags.php:182
+msgid "List"
+msgstr ""
+
+#: inc/widget-authors.php:186 inc/widget-categories.php:167
+msgid "None"
+msgstr ""
+
+#: inc/widget-authors.php:204
+msgid "<acronym title=\"Hypertext Markup Language\">HTML</acronym>?"
+msgstr ""
+
+#: inc/widget-authors.php:212
+msgid "Exclude admin?"
+msgstr ""
+
+#: inc/widget-authors.php:216
+msgid "Show full name?"
+msgstr ""
+
+#: inc/widget-authors.php:220 inc/widget-categories.php:298
+#: inc/widget-tags.php:318
+msgid "Hide empty?"
+msgstr ""
+
+#: inc/widget-bookmarks.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"bookmarks (links)."
+msgstr ""
+
+#: inc/widget-bookmarks.php:44 inc/widget-bookmarks.php:86
+#: inc/widget-bookmarks.php:150
+msgid "Bookmarks"
+msgstr ""
+
+#: inc/widget-bookmarks.php:187 inc/widget-categories.php:176
+#: inc/widget-tags.php:192
+msgid "Count"
+msgstr ""
+
+#: inc/widget-bookmarks.php:189 inc/widget-bookmarks.php:202
+#: inc/widget-categories.php:178 inc/widget-tags.php:193
+msgid "Name"
+msgstr ""
+
+#: inc/widget-bookmarks.php:190 inc/widget-categories.php:179
+#: inc/widget-pages.php:162
+msgid "Slug"
+msgstr ""
+
+#: inc/widget-bookmarks.php:200
+msgid "Description"
+msgstr ""
+
+#: inc/widget-bookmarks.php:201
+msgid "Length"
+msgstr ""
+
+#: inc/widget-bookmarks.php:203
+msgid "Notes"
+msgstr ""
+
+#: inc/widget-bookmarks.php:204
+msgid "Owner"
+msgstr ""
+
+#: inc/widget-bookmarks.php:205 inc/widget-tags.php:188
+msgid "Random"
+msgstr ""
+
+#: inc/widget-bookmarks.php:206
+msgid "Rating"
+msgstr ""
+
+#: inc/widget-bookmarks.php:207
+msgid "Rel"
+msgstr ""
+
+#: inc/widget-bookmarks.php:208 inc/widget-categories.php:187
+msgid "RSS"
+msgstr ""
+
+#: inc/widget-bookmarks.php:209
+msgid "Target"
+msgstr ""
+
+#: inc/widget-bookmarks.php:210
+msgid "Updated"
+msgstr ""
+
+#: inc/widget-bookmarks.php:319
+msgid "Categorize?"
+msgstr ""
+
+#: inc/widget-bookmarks.php:323
+msgid "Show description?"
+msgstr ""
+
+#: inc/widget-bookmarks.php:327
+msgid "Hide invisible?"
+msgstr ""
+
+#: inc/widget-bookmarks.php:331
+msgid "Show rating?"
+msgstr ""
+
+#: inc/widget-bookmarks.php:335
+msgid "Show updated?"
+msgstr ""
+
+#: inc/widget-bookmarks.php:339
+msgid "Show images?"
+msgstr ""
+
+#: inc/widget-bookmarks.php:343
+msgid "Show name?"
+msgstr ""
+
+#: inc/widget-bookmarks.php:347
+msgid "Show private?"
+msgstr ""
+
+#: inc/widget-calendar.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"calendar."
+msgstr ""
+
+#: inc/widget-calendar.php:44 inc/widget-calendar.php:99
+msgid "Calendar"
+msgstr ""
+
+#: inc/widget-calendar.php:113
+msgid "One-letter abbreviation?"
+msgstr ""
+
+#: inc/widget-categories.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"category links."
+msgstr ""
+
+#: inc/widget-categories.php:44 inc/widget-categories.php:136
+msgid "Categories"
+msgstr ""
+
+#: inc/widget-categories.php:180
+msgid "Term Group"
+msgstr ""
+
+#: inc/widget-categories.php:185
+msgid "Atom"
+msgstr ""
+
+#: inc/widget-categories.php:186
+msgid "RDF"
+msgstr ""
+
+#: inc/widget-categories.php:188
+msgid "RSS 2.0"
+msgstr ""
+
+#: inc/widget-categories.php:286 inc/widget-pages.php:277
+msgid "Hierarchical?"
+msgstr ""
+
+#: inc/widget-categories.php:290
+msgid "Use description?"
+msgstr ""
+
+#: inc/widget-categories.php:294
+msgid "Show count?"
+msgstr ""
+
+#: inc/widget-nav-menu.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"menus."
+msgstr ""
+
+#: inc/widget-nav-menu.php:44
+msgid "Navigation Menu"
+msgstr ""
+
+#: inc/widget-nav-menu.php:108
+msgid "Navigation"
+msgstr ""
+
+#: inc/widget-pages.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your page "
+"links."
+msgstr ""
+
+#: inc/widget-pages.php:44 inc/widget-pages.php:125
+msgid "Pages"
+msgstr ""
+
+#: inc/widget-pages.php:157
+msgid "Author"
+msgstr ""
+
+#: inc/widget-pages.php:158
+msgid "Date"
+msgstr ""
+
+#: inc/widget-pages.php:160
+msgid "Menu Order"
+msgstr ""
+
+#: inc/widget-pages.php:161 inc/widget-pages.php:169
+msgid "Modified"
+msgstr ""
+
+#: inc/widget-pages.php:163
+msgid "Title"
+msgstr ""
+
+#: inc/widget-pages.php:168
+msgid "Created"
+msgstr ""
+
+#: inc/widget-search.php:33
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"search form."
+msgstr ""
+
+#: inc/widget-search.php:45 inc/widget-search.php:132
+msgid "Search"
+msgstr ""
+
+#: inc/widget-search.php:148
+msgid "Search Label:"
+msgstr ""
+
+#: inc/widget-search.php:152
+msgid "Search Text:"
+msgstr ""
+
+#: inc/widget-search.php:159
+msgid "Search Submit:"
+msgstr ""
+
+#: inc/widget-search.php:164
+msgid "Use theme's <code>searchform.php</code>?"
+msgstr ""
+
+#: inc/widget-tags.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your tags."
+msgstr ""
+
+#: inc/widget-tags.php:44 inc/widget-tags.php:146
+msgid "Tags"
+msgstr ""
+
+#: inc/widget-tags.php:176
+msgid "View"
+msgstr ""
+
+#: inc/widget-tags.php:177
+msgid "Edit"
+msgstr ""
+
+#: inc/widget-tags.php:181
+msgid "Flat"
+msgstr ""
+
+#: inc/widget-tags.php:314
+msgid "Pad counts?"
+msgstr ""
